@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-how87j.salamduit.sbs/sitemap.xml
